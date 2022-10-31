@@ -1,0 +1,58 @@
+#outer {
+    width: 700px;
+    height: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: left;
+}
+#logo {
+    width: 700px;
+    height: 60px;
+    background-image: url(images/logo_scaal.gif);
+}
+#nav {
+    width: 149px;
+    height: 600px;
+    float: left;
+}
+#nav img{
+    margin-left: 63px;
+    width: 86px;
+    height: 47px;
+    margin-bottom: 20px;
+}
+#content {
+    width: 551px;
+    height: 1090px;
+    float: left;
+    background-color: #cccc9a;
+}
+#text {
+    width: 431px;
+    height: 1080px;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#text h1{
+    color: #7e8200;
+}
+#cover {
+    width: 100px;
+    height: 1090px;
+    float: left;
+    background-color: #999968;
+}
+#footer {
+    width: 680px;
+    height: 180px;
+    text-align: center;
+    padding: 10px;
+}
+#movetoTop{
+    padding-top: 5px;
+    float: right;
+    color: #ff1493;
+}
+

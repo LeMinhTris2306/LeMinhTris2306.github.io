@@ -1,0 +1,70 @@
+#outer {
+    width: 700px;
+    height: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+#logo {
+    width: 700px;
+    height: 60px;
+    background-image: url(images/logo_scaal.gif);
+    background-size: contain;
+}
+#main {
+    width: 700px;
+    height: auto;
+}
+#nav {
+    width: 149px;
+    height: 600px;
+    float: left;
+}
+#nav_button {
+    width: 149px;
+    height: 310px;
+}
+#nav_button img{
+    margin-left: 63px;
+    width: 86px;
+    height: 47px;
+    margin-bottom: 20px;
+    float: left;
+}
+#nav_picture {
+    width: 86px;
+    height: 290px;
+}
+#content{
+    width: 551px;
+    height: 600px;
+    float: left;
+    background-color: #ca9b33;
+}
+#uper_content {
+    width: 531px;
+    height: 450px;
+    padding: 10px;
+    float: left;
+}
+#chu {
+    width: 261px;
+    height: 440px;
+    float: left;
+    padding: 20px;
+}
+#hinh {
+    display: block;
+    position: relative;
+    width: 230px;
+    height: 480px;
+    float: left;
+
+}
+#hinh img{
+    margin-top: 35px;
+}
+#down_content {
+    width: 551px;
+    height: 130px;
+    float: left;
+}
